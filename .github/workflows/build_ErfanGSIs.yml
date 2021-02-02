@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://cqa.samfrew.com/7a58c4a2d9f88225/a65bf336f3d747215f8138e8608aa099cace023ec7481a8cf7cfaf9bc36b8c1dc07bdb1005fec0df8d2f14bacd7dedff6496c08a46aa523627afea71f555c81148253179dd0f722b9449db46196a6f6fbd4ffabb1a3c94cf3167cb6de80e75ab0d1113ff3e53c324ee78e1df812a26fd961588eb008fcf87a70d0fe561aa13f0a19900e416a5fa8393f65982e43d31f864928d379e5bbe547ebce65de5a2f7c8/TGY-G8850ZHU5CTL1-20210111135824.zip
-  ROM_NAME: one ui
+  ROM_URL: https://get.pixelexperience.org/andyRWhVTzZORlNYOFF0QWxBMUNqR3BIZjBKeGZUY3RnQkhxZkd4bjlzSWVwYTB0MVR0cnphNHVhMEtadEF2bTJVcm42enMzeUo2dGxadXhkUjNyUE1INnpYU3NzYVlxVjZ5L3JOcHlWdmM9/PixelExperience_lavender-11.0-20210121-0953-BETA-OFFICIAL.zip
+  ROM_NAME: Generic Pixel
   TZ: Asia/Shanghai
 
 jobs:
