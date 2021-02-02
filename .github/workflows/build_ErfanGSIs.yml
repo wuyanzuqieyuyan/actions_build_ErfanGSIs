@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://get.pixelexperience.org/WlR3cGl0Ky9aNEdOU3kxMUNsY0FnWWtla2JCTFNMc2VHZFp5SXZjcjBaZEZFMExsMmRrcFhQYThGQlJZN29VckdBa1BoYjVWa3M3MjFXMDRtYVlWQmhyZHV0ZUwyMXA4aE5WRWYxQWMyZVE9/PixelExperience_lavender-11.0-20210121-0953-BETA-OFFICIAL.zip
-  ROM_NAME: OxygenOS
+  ROM_NAME: liskaz
   TZ: Asia/Shanghai
 
 jobs:
