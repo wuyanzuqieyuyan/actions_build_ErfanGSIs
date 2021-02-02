@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
+  ROM_URL: https://get.pixelexperience.org/WlR3cGl0Ky9aNEdOU3kxMUNsY0FnWWtla2JCTFNMc2VHZFp5SXZjcjBaZEZFMExsMmRrcFhQYThGQlJZN29VckdBa1BoYjVWa3M3MjFXMDRtYVlWQmhyZHV0ZUwyMXA4aE5WRWYxQWMyZVE9/PixelExperience_lavender-11.0-20210121-0953-BETA-OFFICIAL.zip
   ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
