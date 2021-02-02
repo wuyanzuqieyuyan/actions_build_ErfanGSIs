@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.pixelexperience.org/andyRWhVTzZORlNYOFF0QWxBMUNqR3BIZjBKeGZUY3RnQkhxZkd4bjlzSWVwYTB0MVR0cnphNHVhMEtadEF2bTJVcm42enMzeUo2dGxadXhkUjNyUE1INnpYU3NzYVlxVjZ5L3JOcHlWdmM9/PixelExperience_lavender-11.0-20210121-0953-BETA-OFFICIAL.zip
+  ROM_URL: https://mgb1.androidfilehost.com/dl/ODwB2eT8eD_0fusw9lULYA/1612341575/17248734326145718781/xiaomi.eu_multi_Jasmine_Sprout_V12.0.1.0.PDCCNXM_v12-9.zip?
   ROM_NAME: Pixel
   TZ: Asia/Shanghai
 
